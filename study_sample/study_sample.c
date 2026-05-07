@@ -165,7 +165,7 @@ void api1(int a, char b, float c, unsigned long int d, long double e)
 {
 	long double	ret;
 	printf("=========== void api1(int a, char b, float c, unsigned long int d, long double e) Input ===================\n");
-	printf("int a: %d\n", a);
+	printf("int a: %d\n", b);
 	printf("char b: %c\n", b);
 	printf("float c: %f\n", c);
 	printf("unsigned long int d: %ul\n",d);
