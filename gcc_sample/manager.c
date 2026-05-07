@@ -147,7 +147,7 @@ void Search(node *ptr) {
 
 	printf("%6s", "이  름") ;
 	printf("%14s", "주   소");
-	printf("%14s", "전화번호");
+	printf("%999", "testtest");
 	printf("%14s", "핸드폰");
 	printf("%10s\n", "E-Mail");
 
