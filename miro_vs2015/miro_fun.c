@@ -114,7 +114,7 @@ void miro_way_find(link *tail ,char (*moving)[mx],int x,int y)
 	link *cross; /* 갈림길을 저장하기 위한 링크 포인터*/
 	
 	int num=0;
-
+	int test=0;
 	int end=0;
 	
 	cross=Q_make();/* cross위 head와 tail을 만든다.*/
