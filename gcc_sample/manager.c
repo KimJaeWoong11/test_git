@@ -86,7 +86,7 @@ void Insert(node *ptr) {
 	printf("이름을 입력하시오: ");
 	gets(ptr->name);
 	printf("주소를 입력하시오: ");
-	gets(ptr->address);
+	inputString(ptr->address, sizeof(ptr->address));
 	printf("전화번호 입력하시오: ");
 	gets(ptr->phone);
 	printf("핸드폰을 입력하시오: ");
