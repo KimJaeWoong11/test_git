@@ -255,7 +255,7 @@ void miro_way_find(link *tail ,char (*moving)[mx],int x,int y)
 		map_out(moving);
 		
 	}
-	getchar();
+	//getchar();
 }
 
 /*-----------------------------------------------------------------------------------------------------------*/
