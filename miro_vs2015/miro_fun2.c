@@ -47,7 +47,7 @@ void miro_way_completionS(link *tail,char (*moving)[mx])
 link* map_re_find(link *tail)/* 찾은길을 더욱 단축 시켜주도록 한다.*/
 {
 	char re_map[my][mx]={0};
-	
+	char test;
 	char (*move)[mx]=re_map;
 	int x, y;
 	link *node;
@@ -95,7 +95,7 @@ link* map_re_find(link *tail)/* 찾은길을 더욱 단축 시켜주도록 한다.*/
 	
 	printf("\n출발점 : x = %d  y = %d  Enter을 누르면 길찾기를 시작 합니다...\n ",save->prev->miro_x,save->prev->miro_y,save->prev->check);
 
-	getchar();  /*-test*/
+	test = getchar();  /*-test*/
 	
 	miro_way_find(save,move,save->prev->miro_x,save->prev->miro_y);/*시작 값과 저장될 링크리스트만 값을 보내어 준다.*/
 
