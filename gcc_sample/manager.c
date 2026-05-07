@@ -61,22 +61,16 @@ int main(void) {
 		case 1 : 
 			Insert(ptr); 
 			break;
-
 		case 2 : 
 			Display(ptr->link);
 			break;
-
 		case 3 : 
 			Delete(ptr); 
 			break;
-
 		case 4 : 
 			Search(ptr); 
 			break;
 
-		default :
-			printf("잘못된 메뉴 선택입니다. choice = %d\n", choice);
-			break;
 		}
 	}while(choice!=5);
 }
