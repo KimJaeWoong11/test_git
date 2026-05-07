@@ -1,0 +1,81 @@
+{
+    "REANALYZE": false,
+    "WORKING_DIR": "D:\\VPES_GIT\\vpes_git\\miro_vs2015\\.staticdata",
+    "COMPILER_INSTALLATION_PATH": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio 14.0"
+    ],
+    "PRE_BUILD_COMMAND": "",
+    "COMMAND": [
+        "msbuild",
+        "vs2015_miro.sln",
+        "/t:rebuild"
+    ],
+    "STATIC_SERVER_ADDRESS": "211.116.223.171",
+    "PROJECT_KEY": "AUTOTEST",
+    "TOOLCHAIN_FILENAME": "Microsoft_VisualStudio_2015_None_Host_CCPP.sconf",
+    "PARSING": {
+        "C": {
+            "include": [
+                "C:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\VC\\include",
+                "C:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\VC\\atlmfc\\include",
+                "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.10240.0\\ucrt",
+                "C:\\Program Files (x86)\\Windows Kits\\8.1\\Include\\um",
+                "C:\\Program Files (x86)\\Windows Kits\\8.1\\Include\\shared",
+                "C:\\Program Files (x86)\\Windows Kits\\8.1\\Include\\winrt"
+            ],
+            "conf": [
+                "cs_encoding"
+            ],
+            "removes": []
+        },
+        "CPP": {
+            "include": [
+                "C:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\VC\\include",
+                "C:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\VC\\atlmfc\\include",
+                "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.10240.0\\ucrt",
+                "C:\\Program Files (x86)\\Windows Kits\\8.1\\Include\\um",
+                "C:\\Program Files (x86)\\Windows Kits\\8.1\\Include\\shared",
+                "C:\\Program Files (x86)\\Windows Kits\\8.1\\Include\\winrt"
+            ],
+            "conf": [],
+            "removes": []
+        }
+    },
+    "USER_DEFINED_EXTENSIONS": {
+        "header": [
+            ".h",
+            ".H",
+            ".hpp",
+            ".HPP",
+            ".tcc",
+            ".inl",
+            ".INL"
+        ],
+        "source": [
+            ".c",
+            ".C",
+            ".c++",
+            ".C++",
+            ".cpp",
+            ".CPP",
+            ".cxx",
+            ".CXX",
+            ".cc",
+            ".CC",
+            ".cp",
+            ".CP"
+        ],
+        "object": [
+            ".o",
+            ".O",
+            ".lo",
+            ".obj",
+            ".OBJ"
+        ]
+    },
+    "MULTI_PROCESSOR": false,
+    "EXCLUSIONS": [],
+    "EXTRA_OPTIONS": {
+        "SPECIFIED_ANALYSIS_AGENT_VERSION": ""
+    }
+}

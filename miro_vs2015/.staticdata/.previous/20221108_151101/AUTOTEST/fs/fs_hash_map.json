@@ -1,0 +1,205 @@
+{
+    "C:/PROGRAM FILES (X86)/WINDOWS KITS/10/INCLUDE/10.0.10240.0/UCRT/CORECRT_WSTDLIB.H": [
+        "_39876eee9d09d6f14111fe230745bf23",
+        true,
+        false,
+        "dac66be",
+        "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10240.0/ucrt/corecrt_wstdlib.h"
+    ],
+    "C:/PROGRAM FILES (X86)/WINDOWS KITS/10/INCLUDE/10.0.10240.0/UCRT/CORECRT_WCONIO.H": [
+        "_1033a73d366e0663d8c3b9e9a6abb7ac",
+        true,
+        false,
+        "b5372473",
+        "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10240.0/ucrt/corecrt_wconio.h"
+    ],
+    "D:/VPES_GIT/VPES_GIT/MIRO_VS2015/.STATICDATA/PREINCLUDE/RECENT_PREINCLUDE_CPP.H": [
+        "671db7da616e01bcf40029ff0c4f4114_",
+        false,
+        true,
+        "cb201cdc",
+        "D:/VPES_GIT/vpes_git/miro_vs2015/.staticdata/preinclude/recent_preinclude_cpp.h"
+    ],
+    "C:/PROGRAM FILES (X86)/WINDOWS KITS/10/INCLUDE/10.0.10240.0/UCRT/STDIO.H": [
+        "_2d5e699df1bed89fcccccf0dcfc49050",
+        true,
+        false,
+        "6569db9d",
+        "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10240.0/ucrt/stdio.h"
+    ],
+    "C:/PROGRAM FILES (X86)/WINDOWS KITS/10/INCLUDE/10.0.10240.0/UCRT/CORECRT_STDIO_CONFIG.H": [
+        "_035d8ef27e5026070e7650ea137714a0",
+        true,
+        false,
+        "feefcca4",
+        "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10240.0/ucrt/corecrt_stdio_config.h"
+    ],
+    "D:/VPES_GIT/VPES_GIT/MIRO_VS2015/QS_FUN.C": [
+        "f49d7b9435ef678a6909400740ddb373",
+        false,
+        false,
+        "9743c5d2",
+        "D:/VPES_GIT/vpes_git/miro_vs2015/QS_fun.c"
+    ],
+    "C:/PROGRAM FILES (X86)/WINDOWS KITS/10/INCLUDE/10.0.10240.0/UCRT/CONIO.H": [
+        "_97672f0119438d20bf40182cf9f13092",
+        true,
+        false,
+        "f53a5981",
+        "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10240.0/ucrt/conio.h"
+    ],
+    "C:/PROGRAM FILES (X86)/WINDOWS KITS/10/INCLUDE/10.0.10240.0/UCRT/CORECRT.H": [
+        "_c18832d918808d40b4664a51a8824a51",
+        true,
+        false,
+        "1d458656",
+        "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10240.0/ucrt/corecrt.h"
+    ],
+    "C:/PROGRAM FILES (X86)/WINDOWS KITS/10/INCLUDE/10.0.10240.0/UCRT/CORECRT_MEMORY.H": [
+        "_96c01ee8e4c01b90601d93353838ebf8",
+        true,
+        false,
+        "80ebadd3",
+        "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10240.0/ucrt/corecrt_memory.h"
+    ],
+    "C:/PROGRAM FILES (X86)/WINDOWS KITS/10/INCLUDE/10.0.10240.0/UCRT/ERRNO.H": [
+        "_1fea3de9cd1ea6377420d20de07007ca",
+        true,
+        false,
+        "45d3ec23",
+        "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10240.0/ucrt/errno.h"
+    ],
+    "C:/PROGRAM FILES (X86)/WINDOWS KITS/10/INCLUDE/10.0.10240.0/UCRT/CORECRT_WSTDIO.H": [
+        "_2443db19dcc585e308f60dafef1d4c4c",
+        true,
+        false,
+        "7daec286",
+        "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10240.0/ucrt/corecrt_wstdio.h"
+    ],
+    "C:/PROGRAM FILES (X86)/WINDOWS KITS/10/INCLUDE/10.0.10240.0/UCRT/CORECRT_SEARCH.H": [
+        "_9fbd7e6c48c9d82608f06b0912043bbe",
+        true,
+        false,
+        "169d255e",
+        "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10240.0/ucrt/corecrt_search.h"
+    ],
+    "D:/VPES_GIT/VPES_GIT/MIRO_VS2015/.STATICDATA/PREINCLUDE/RECENT_PREINCLUDE_C.H": [
+        "306227024c018cd03aca28832762ed44_",
+        false,
+        true,
+        "dae7ffb3",
+        "D:/VPES_GIT/vpes_git/miro_vs2015/.staticdata/preinclude/recent_preinclude_c.h"
+    ],
+    "D:/VPES_GIT/VPES_GIT/MIRO_VS2015/Q_S.H": [
+        "053ded9a26e936eb04de998f0ecb6d77",
+        false,
+        false,
+        "ca4f4382",
+        "D:/VPES_GIT/vpes_git/miro_vs2015/Q_S.h"
+    ],
+    "C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 14.0/VC/INCLUDE/VADEFS.H": [
+        "_303c50a7bc924cd426baa20c7f16192c",
+        true,
+        false,
+        "e86b0504",
+        "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/include/vadefs.h"
+    ],
+    "C:/PROGRAM FILES (X86)/WINDOWS KITS/10/INCLUDE/10.0.10240.0/UCRT/CORECRT_MALLOC.H": [
+        "_0fc81235f60a7f4d97d939bf3f759b48",
+        true,
+        false,
+        "ce77c4a2",
+        "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10240.0/ucrt/corecrt_malloc.h"
+    ],
+    "C:/PROGRAM FILES (X86)/WINDOWS KITS/10/INCLUDE/10.0.10240.0/UCRT/CORECRT_WSTRING.H": [
+        "_2d923cbde24bb8f217fe09a5f7d88929",
+        true,
+        false,
+        "6d018e4",
+        "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10240.0/ucrt/corecrt_wstring.h"
+    ],
+    "C:/PROGRAM FILES (X86)/WINDOWS KITS/10/INCLUDE/10.0.10240.0/UCRT/STRING.H": [
+        "_377e41f4dae6f93ea819b4efcf229f08",
+        true,
+        false,
+        "3c932317",
+        "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10240.0/ucrt/string.h"
+    ],
+    "C:/PROGRAM FILES (X86)/WINDOWS KITS/10/INCLUDE/10.0.10240.0/UCRT/STDDEF.H": [
+        "_c2980516ec6936bddc3dc739ba9cb84d",
+        true,
+        false,
+        "22e8ca25",
+        "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10240.0/ucrt/stddef.h"
+    ],
+    "D:/VPES_GIT/VPES_GIT/MIRO_VS2015/MIRO_FUN.C": [
+        "07418e733db52aa9c2124762ac6afe29",
+        false,
+        false,
+        "15fcd60d",
+        "D:/VPES_GIT/vpes_git/miro_vs2015/miro_fun.c"
+    ],
+    "C:/PROGRAM FILES (X86)/WINDOWS KITS/10/INCLUDE/10.0.10240.0/UCRT/STDLIB.H": [
+        "_c44c7e39ee3b3a4ef6b3211ec0110aa8",
+        true,
+        false,
+        "d2d5c168",
+        "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10240.0/ucrt/stdlib.h"
+    ],
+    "C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 14.0/VC/INCLUDE/VCRUNTIME_STRING.H": [
+        "_5c36f720190eda34280c873b1c69fdac",
+        true,
+        false,
+        "dcf6e7e6",
+        "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/include/vcruntime_string.h"
+    ],
+    "C:/PROGRAM FILES (X86)/WINDOWS KITS/10/INCLUDE/10.0.10240.0/UCRT/CORECRT_MEMCPY_S.H": [
+        "_a5976652b404edddbda326ff9a9488a3",
+        true,
+        false,
+        "bc1ed73f",
+        "C:/Program Files (x86)/Windows Kits/10/Include/10.0.10240.0/ucrt/corecrt_memcpy_s.h"
+    ],
+    "D:/VPES_GIT/VPES_GIT/MIRO_VS2015/Q_S.C": [
+        "46aa21c7cfc1fc6020ca628e2db5aafe",
+        false,
+        false,
+        "4b9511cd",
+        "D:/VPES_GIT/vpes_git/miro_vs2015/Q_S.c"
+    ],
+    "C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 14.0/VC/INCLUDE/CONCURRENCYSAL.H": [
+        "_cf7c28041ac710f2f4e8e03184ceb03a",
+        true,
+        false,
+        "7eb917ce",
+        "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/include/ConcurrencySal.h"
+    ],
+    "C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 14.0/VC/INCLUDE/VCRUNTIME.H": [
+        "_70f6d71b7615fc31611118aaa55f403d",
+        true,
+        false,
+        "224ba975",
+        "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/include/vcruntime.h"
+    ],
+    "D:/VPES_GIT/VPES_GIT/MIRO_VS2015/MIRO_FUN2.C": [
+        "b01b4df96aaf1c1ad305c7c0d29a97db",
+        false,
+        false,
+        "e4b1e7ee",
+        "D:/VPES_GIT/vpes_git/miro_vs2015/miro_fun2.c"
+    ],
+    "C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 14.0/VC/INCLUDE/SAL.H": [
+        "_25992979c3dc319b2b22111261d8b4ba",
+        true,
+        false,
+        "d35c97d5",
+        "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/include/sal.h"
+    ],
+    "C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 14.0/VC/INCLUDE/LIMITS.H": [
+        "_813c77d6416a1a1cd01d314707e45ebe",
+        true,
+        false,
+        "f7e3a486",
+        "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/include/limits.h"
+    ]
+}

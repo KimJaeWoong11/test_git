@@ -1,0 +1,12 @@
+{
+    "schemaVersion": "1.0",
+    "modules": [
+        {
+            "name": "Debug-vs2015_miro.exe",
+            "linkFlags": "\"/ERRORREPORT:QUEUE\" \"/OUT:\"D:\\VPES_GIT\\vpes_git\\miro_vs2015\\x64\\Debug\\vs2015_miro.exe\"\" \"/INCREMENTAL\" \"/NOLOGO\" \"kernel32.lib\" \"user32.lib\" \"gdi32.lib\" \"winspool.lib\" \"comdlg32.lib\" \"advapi32.lib\" \"shell32.lib\" \"ole32.lib\" \"oleaut32.lib\" \"uuid.lib\" \"odbc32.lib\" \"odbccp32.lib\" \"/MANIFEST\" \"/MANIFESTUAC:\"level='asInvoker' uiAccess='false'\"\" \"/manifest:embed\" \"/D\" \"EBUG:FASTLINK\" \"/PDB:\"D:\\VPES_GIT\\vpes_git\\miro_vs2015\\x64\\Debug\\vs2015_miro.pdb\"\" \"/TLBID:1\" \"/D\" \"YNAMICBASE\" \"/NXCOMPAT\" \"/IMPLIB:\"D:\\VPES_GIT\\vpes_git\\miro_vs2015\\x64\\Debug\\vs2015_miro.lib\"\" \"/MACHINE:X64\" \"D:\\VPES_GIT\\vpes_git\\miro_vs2015\\x64\\Debug\\miro_fun.obj\" \"D:\\VPES_GIT\\vpes_git\\miro_vs2015\\x64\\Debug\\miro_fun2.obj\" \"D:\\VPES_GIT\\vpes_git\\miro_vs2015\\x64\\Debug\\QS_fun.obj\" \"D:\\VPES_GIT\\vpes_git\\miro_vs2015\\x64\\Debug\\Q_S.obj\"",
+            "linkType": "execute",
+            "sources": [],
+            "dependencies": []
+        }
+    ]
+}

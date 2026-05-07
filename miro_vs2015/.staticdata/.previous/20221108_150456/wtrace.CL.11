@@ -1,0 +1,40 @@
+exec-+-11-+-10-+-D:\VPES_GIT\vpes_git\miro_vs2015-+-C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe-+-"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe" /c /ZI /nologo /W1 /WX- /Od /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TC /errorReport:queue miro_fun.c miro_fun2.c QS_fun.c Q_S.c  
+open-+-11-+-10-+-C:\Users\nryun\AppData\Local\Microsoft\VSCommon\14.0\SQM\sqmcpp.log
+open-+-11-+-10-+-D:\VPES_GIT\vpes_git\miro_vs2015\Q_S.c
+open-+-11-+-10-+-D:\VPES_GIT\vpes_git\miro_vs2015\x64\Debug\vc140.idb
+open-+-11-+-10-+-D:\VPES_GIT\vpes_git\miro_vs2015\Q_S.h
+open-+-11-+-10-+-C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h
+open-+-11-+-10-+-C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt.h
+open-+-11-+-10-+-C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
+open-+-11-+-10-+-C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\sal.h
+open-+-11-+-10-+-C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\ConcurrencySal.h
+open-+-11-+-10-+-C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vadefs.h
+open-+-11-+-10-+-C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h
+open-+-11-+-10-+-C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_stdio_config.h
+open-+-11-+-10-+-C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h
+open-+-11-+-10-+-C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_malloc.h
+open-+-11-+-10-+-C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_search.h
+open-+-11-+-10-+-C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stddef.h
+open-+-11-+-10-+-C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdlib.h
+open-+-11-+-10-+-C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\limits.h
+open-+-11-+-10-+-C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h
+open-+-11-+-10-+-C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_memory.h
+open-+-11-+-10-+-C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_memcpy_s.h
+open-+-11-+-10-+-C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\errno.h
+open-+-11-+-10-+-C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime_string.h
+open-+-11-+-10-+-C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h
+open-+-11-+-10-+-C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\conio.h
+open-+-11-+-10-+-C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wconio.h
+open-+-11-+-10-+-C:\Users\nryun\AppData\Local\Temp\{8BC0155E-C6BD-4BE5-9B02-73BC5C231F38}
+open-+-11-+-10-+-D:\VPES_GIT\vpes_git\miro_vs2015\x64\Debug\vc140.pdb
+open-+-11-+-10-+-D:\VPES_GIT\vpes_git\miro_vs2015\QS_fun.c
+open-+-11-+-10-+-C:\Users\nryun\AppData\Local\Temp\{C551231D-4754-43FC-9781-B7292CABB8A5}
+open-+-11-+-10-+-D:\VPES_GIT\vpes_git\miro_vs2015\miro_fun2.c
+open-+-11-+-10-+-C:\Users\nryun\AppData\Local\Temp\{DA82DBE0-D87D-4FE6-A76C-0EEF32D2F812}
+open-+-11-+-10-+-D:\VPES_GIT\vpes_git\miro_vs2015\miro_fun.c
+open-+-11-+-10-+-C:\Users\nryun\AppData\Local\Temp\{B15D4A98-A733-4496-95A0-8FF95634FA74}
+open-+-11-+-10-+-C:\Users\nryun\AppData\Local\Temp\{2D7FA19E-6C02-4C1D-A008-E3DE9419E022}
+open-+-11-+-10-+-C:\Users\nryun\AppData\Local\Temp\{0C24F22F-A622-4520-B8E3-992D306B1589}
+open-+-11-+-10-+-C:\Users\nryun\AppData\Local\Temp\{69AB37A4-5C98-46E9-94C5-15AFFDB48B79}
+open-+-11-+-10-+-C:\Users\nryun\AppData\Local\Temp\{AA5DA9CE-011F-468B-8F3C-61DF41A9D3A2}
+open-+-11-+-10-+-C:\Users\nryun\AppData\Local\Temp\tmp322c48bfe3ea442882bd681852a4a7ac.tmp

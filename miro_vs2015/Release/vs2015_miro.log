@@ -1,0 +1,10 @@
+﻿  miro_fun.c
+  miro_fun2.c
+miro_fun2.c(97): warning C4474: 'printf' : too many arguments passed for format string
+  miro_fun2.c(97): note: placeholders and their parameters expect 2 variadic arguments, but 3 were provided
+  QS_fun.c
+  Q_S.c
+  Generating Code...
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+  vs2015_miro.vcxproj -> F:\RCPTT\CT_RCPTT\RT_SampleCode\C\VisualStudio\miro_vs2015\Release\vs2015_miro.exe
+  vs2015_miro.vcxproj -> F:\RCPTT\CT_RCPTT\RT_SampleCode\C\VisualStudio\miro_vs2015\Release\vs2015_miro.pdb (Full PDB)
